@@ -1,4 +1,4 @@
-# Angular Service shared between eager/lazy modules
+# Angular Service shared between eager and lazy loaded modules
 
 A sample Angular app showing how to share a service singleton between modules. 
 
